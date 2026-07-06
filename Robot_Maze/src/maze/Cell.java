@@ -1,4 +1,5 @@
-//ANNA TARASIDOU
+// ANNA TARASIDOU
+
 package maze;
 
 public class Cell{

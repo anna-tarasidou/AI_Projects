@@ -1,5 +1,10 @@
 # 🤖 Robot Maze Game
 
+**Course:** MYY602 - Artificial Intelligence 
+**Type:** Individual Mini Project  
+**Development Platform:** Java, Eclipse
+
+## Project Overview
 A terminal-based maze game implemented in **Java**, where the player must navigate from a starting point to a goal through a randomly generated grid-based maze filled with obstacles. The maze can be solved either manually or using classic pathfinding algorithms.
 
 ---
@@ -81,12 +86,12 @@ Choose one of the following modes:
 
 🧠 Run with Solvers (UCS / A*)
 ```bash
-java -cp src core.RobotMaze
+java -cp bin core.RobotMaze
 ```
 🎮 Run the Maze Game (Manual Player Mode with Levels)
 
 ```bash
-java -cp src core.Game
+java -cp bin core.Game
 ```
 ## 📂 Project Structure
 ```bash
